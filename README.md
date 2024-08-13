@@ -17,7 +17,7 @@
 
 ## How to Use
 1. **Download The .pdf file**
-   And open the pdf file in google chrome or what ever browser you desire
+   And open the pdf file in google chrome or what ever browser you desire.
 
 2. **Read the Files**  
    Explore the documents available in this repository to learn more about Ripcord and Opus.
@@ -38,8 +38,4 @@ There isnt any lisence so feel free to skid or do what ever u want with it i don
 If you have any questions, feel free to contact me:
 
 - Discord: court.fm
-- GitHub: (https://github.com/courtfm)
-
----
-
-Feel free to customize any section to better fit your project!
+- GitHub: https://github.com/courtfm
