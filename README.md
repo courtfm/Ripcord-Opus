@@ -1,7 +1,3 @@
-Of course! Here’s the README template in English:
-
----
-
 # Ripcord Opus Explained In Hindi
 
 ## Project Introduction
@@ -11,13 +7,13 @@ Of course! Here’s the README template in English:
 ## Content
 
 - **What is Ripcord?**  
-  Ripcord is a powerful audio compression system that integrates Opus. It is particularly useful for voice and audio streaming.
+  Ripcord is a powerful audio compression system that integrates Opus. It is particularly useful for voice and audio loudmicing.
 
 - **What is Opus?**  
   Opus is an audio codec designed for high-quality audio and efficient bandwidth usage. It is ideal for VoIP, music streaming, and other audio applications.
 
 - **Relationship Between Ripcord and Opus**  
-  This section discusses the use of Opus by Ripcord and the benefits it provides.
+  This section discusses the use of Opus by Ripcord and the knowledge every needs if they want to code opus in ripcord.
 
 ## How to Use
 1. **Download The .pdf file**
